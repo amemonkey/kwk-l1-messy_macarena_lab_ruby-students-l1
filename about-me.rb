@@ -1,4 +1,4 @@
-def about_me
+
   puts "My name is Ame"
   puts "I am 13 years old"
   puts "I am from Utah"
