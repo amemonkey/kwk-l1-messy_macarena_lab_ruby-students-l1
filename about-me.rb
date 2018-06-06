@@ -5,6 +5,7 @@
   puts "My favorite food is burgers"
   puts "I like to play volleyball"
  puts "Reading is my favorite past time"
+ 
  def greeting 
   local_greeting = "Hey DUDeee"
   your_name = "Randi"
